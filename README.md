@@ -1,0 +1,2 @@
+## referenfe  
+[Hands-On Blockchain for Python Developers](https://www.amazon.co.jp/Hands-Blockchain-Python-Developers-decentralized-ebook/dp/B07NSRVNK3/ref=sr_1_3?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&keywords=python+smart+contract&qid=1582868050&sr=8-3)
