@@ -12,6 +12,10 @@ class Block:
     parent_id = None
     parent_hash = None
 
+    def get_dict(self): 
+       
+        return {"history": self.history, "parent_id": self.parent_id, "id": self.id}
+
 
 if __name__ == "__main__":
     block_A = Block()
